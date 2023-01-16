@@ -6,6 +6,8 @@ void insaf(int a,int b){
 
 int main()
 {
+    std::cout<<"Hello Insaf"<<"\n";
+    std::cout<<"Hello Insaf"<<"\n";
     std::cout<<"Hello World"<<"\n";
     std::cout<<"Hello Insaf"<<"\n";
     insaf(1,2);
