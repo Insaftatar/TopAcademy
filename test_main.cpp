@@ -39,11 +39,19 @@ class Point{
 
 int main()
 {
+<<<<<<< HEAD
     Point test_point(0,5);
     
     test_point.setX(-7);
     std::cout<<"X= "<<test_point.getX()<<"\n";
     std::cout<<"Y= "<<test_point.getY()<<"\n";
 
+=======
+    std::cout<<"Hello Insaf"<<"\n";
+    std::cout<<"Hello Insaf"<<"\n";
+    std::cout<<"Hello World"<<"\n";
+    std::cout<<"Hello Insaf"<<"\n";
+    insaf(1,2);
+>>>>>>> 912923db94067c78f80c8a3772c8cc180d1f4cd5
     return 0;
 }
